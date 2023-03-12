@@ -1,0 +1,13 @@
+ul{
+    background-color: aqua;
+    padding: 20px;
+}
+
+
+ul li{
+  
+    padding: 30px;
+    display: inline;
+   outline: 10px;
+  
+}
